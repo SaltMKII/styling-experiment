@@ -3,6 +3,17 @@ p {
 
 	font-size: 64px;
 	text-align: right;
-	text-decoration: blink;
+	text-shadow: 4px black;
+	display: block;
+
+}
+
+img {
+
+	border-color: green;
+	border-style: dashed;
+	border-width: 10px;
+	float: left;
+	display: block;
 
 }
