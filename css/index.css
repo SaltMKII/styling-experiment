@@ -2,10 +2,10 @@
 p {
 
 	font-size: 64px;
-    text-align: right;
     text-shadow: 4px 2px orange;
     max-width: 500px;
     display: block;
+
 
 }
 
@@ -16,5 +16,8 @@ img {
 	border-width: 10px;
 	float: left;
 	display: block;
+	position: relative;
+	bottom: 100px;
+	left: 100px;
 
 }
