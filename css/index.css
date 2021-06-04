@@ -11,13 +11,14 @@ p {
 
 img {
 
-	border-color: green;
-	border-style: dashed;
-	border-width: 10px;
-	float: left;
-	display: block;
-	position: relative;
-	bottom: 100px;
-	left: 100px;
+    border-color: green;
+    border-style: dashed;
+    border-width: 10px;
+    float: left;
+    position: relative;
+    display: block;
+    left: 540px;
+    bottom: 335px;
+    max-width: 300px;
 
 }
