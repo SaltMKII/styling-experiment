@@ -5,6 +5,7 @@ p {
     text-align: right;
     text-shadow: 4px 2px orange;
     max-width: 500px;
+    display: block;
 
 }
 
